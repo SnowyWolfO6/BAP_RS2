@@ -1,0 +1,17 @@
+body{
+  background-color: aliceblue;
+}
+
+.wrapper{
+    text-align: center;
+  background-color: LemonChiffon;
+}
+.good
+{
+    background-color: green;
+}
+.wrong
+{
+    background-color: red;
+}
+
